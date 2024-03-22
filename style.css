@@ -1,0 +1,19 @@
+#whiteBox{
+    text-align: center;
+    
+}
+
+#mySubmit{
+    border-radius: 2%;
+    border: none;
+    background-color: #da0037;
+
+    padding: 4px;
+    border-radius: 6px;
+    font-size: 16px;
+    color: beige;
+}
+
+#diceImages img{
+    width: 50px;
+}
